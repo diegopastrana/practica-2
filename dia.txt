@@ -3,3 +3,5 @@ Martes
 Mirciles
 Jueves
 Viernes
+Sabado
+Domingo
